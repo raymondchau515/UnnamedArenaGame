@@ -16,15 +16,13 @@ Play Testing
   Robert - SpookyGhost
   Raymond - Sun_Ray
   
-Music
-  :(
 ==================================================================================
-#Suggestions: (Feel free to add anything here)
+##Suggestions: (Feel free to add anything here)
 -
 -
 -
 ==================================================================================
-#To do list:
+###To do list:
 -
 -
 -
