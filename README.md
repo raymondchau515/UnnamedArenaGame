@@ -1,5 +1,5 @@
 **UNNAMED ARENA GAME PROJECT**  
-Credits: (Add your last name if want to, this will be added to the game once it is published)
+Credits: (Let me know if you want your last name here)
 
 -Programming  
   Raymond - Sun_Ray
@@ -15,12 +15,7 @@ Credits: (Add your last name if want to, this will be added to the game once it 
   Robert - SpookyGhost  
   Raymond - Sun_Ray  
   
-
-Suggestions: (Feel free to add anything here)
--
--
--
-To do list: 
--
--
--
+**To do list**: 
+- Tile Map Art
+- Music
+- Game Balance
