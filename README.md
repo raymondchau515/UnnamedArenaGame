@@ -1,4 +1,4 @@
-UNNAMED ARENA GAME PROJECT
+#UNNAMED ARENA GAME PROJECT
 ===================================================================================
 Credits: (Add your last name if want to, this will be added to the game once it is published)
 
@@ -19,12 +19,12 @@ Play Testing
 Music
   :(
 ==================================================================================
-Suggestions: (Feel free to add anything here)
+#Suggestions: (Feel free to add anything here)
 -
 -
 -
 ==================================================================================
-To do list:
+#To do list:
 -
 -
 -
