@@ -1,16 +1,16 @@
 **UNNAMED ARENA GAME PROJECT**  
 Credits: (Let me know if you want your real name here, this is what I will use for the final product otherwise)
 
--Programming  
+-Programmer  
   Raymond Chau - Sun_Ray
 
--Art  
+-Artists  
   SpookyGhost  
   josi  
   Iced  
   Raymond Chau - Sun_Ray  
 
--Play Testing  
+-Play Testers  
   Link  
   SpookyGhost  
   Raymond Chau  - Sun_Ray  
