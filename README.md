@@ -5,14 +5,14 @@ Credits: (Let me know if you want your real name here, this is what I will use f
   Raymond Chau - Sun_Ray
 
 -Artists  
-  SpookyGhost  
+  Robert Crimi - SpookyGhost  
   Joscelyne Clasper - josi  
   Iced  
   Raymond Chau - Sun_Ray  
 
 -Play Testers  
   Georgi Georgiev - Link  
-  SpookyGhost  
+  Robert Crimi - SpookyGhost  
   Raymond Chau  - Sun_Ray  
 
 -Music Producer  
