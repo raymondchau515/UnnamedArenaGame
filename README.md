@@ -19,6 +19,5 @@ Credits: (Let me know if you want your real name here, this is what I will use f
   Georgi Georgiev - Link  
   
 **To do list**: 
-- Tile Map Art
 - Music
-- Game Balance
+- Background
