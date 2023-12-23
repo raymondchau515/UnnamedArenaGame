@@ -7,7 +7,7 @@ Credits: (Let me know if you want your real name here, this is what I will use f
 -Artists  
   Robert Crimi - SpookyGhost  
   Joscelyne Clasper - josi  
-  Iced  
+  Johnny Hudik - Iced  
   Raymond Chau - Sun_Ray  
 
 -Play Testers  
