@@ -17,6 +17,9 @@ Credits: (Let me know if you want your real name here, this is what I will use f
 
 -Music Producer  
   Georgi Georgiev - Link  
+
+-UX Design (UX)  
+  Bianca Hernandez - B
   
 **To do list**: 
 - Music (loopable, sync, and main theme)
