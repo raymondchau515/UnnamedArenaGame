@@ -20,7 +20,7 @@ Credits: (Let me know if you want your real name here, this is what I will use f
   Georgi Georgiev - Link  
 
 -UX Design (UX)  
-  Bianca Hernandez - B
+  Bianca Hernandez - B  
   Lipzi Cortez - Lipzcort
   
 **To do list**: 
